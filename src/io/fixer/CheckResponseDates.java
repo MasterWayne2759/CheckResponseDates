@@ -11,7 +11,9 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.junit.Assert;
 import org.apache.http.HttpResponse;
 
-//This is my second commit test 
+
+//third commit test
+//third commit test after quickdiff
 
 public class CheckResponseDates {
 
